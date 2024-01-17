@@ -1,9 +1,3 @@
-# blog만들기
-
-## 설치과정
-`npx create-next-app --example blog-starter blog-starter-app`
-
-```js
 /**
  * @type {import('next').NextConfig}
  */
@@ -16,6 +10,3 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
-```
-
-`npm run build`
